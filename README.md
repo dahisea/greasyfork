@@ -1,2 +1,1 @@
-# greasyfork
-镜像站
+# [https://github.com/dahisea/GreasyFork-Mirror]
